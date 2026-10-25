@@ -307,4 +307,4 @@ Pengguna tanpa hak akses tidak bisa membuka halaman Pengguna lewat URL langsung.
 
 Dibangun dengan framework [Laravel 12](https://laravel.com/docs). Data produk, pemasok, dan akun adalah data dummy.
 
-<!-- Tulis di sini sumber lain yang kamu pakai (referensi, library, tools, atau bantuan AI) sesuai aturan dosen. -->
+Dalam pengerjaan, saya memakai Claude (asisten AI dari Anthropic) untuk membantu menyusun kode, test, dan dokumentasi. Seluruh kode saya jalankan dan uji sendiri.
