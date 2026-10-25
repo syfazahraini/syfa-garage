@@ -29,7 +29,7 @@ Analogi sederhananya seperti rumah makan: **Staff** adalah kasir yang menerima p
 ## 3. Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/syfazahraini/syfa-garage.git
 cd syfa-garage
 
 composer install
